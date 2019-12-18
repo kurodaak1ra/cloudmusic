@@ -25,7 +25,7 @@
 >界面 UI 参考安卓版 <s>v5.9.1.239129</s> v6.0客户端，内部小图标全部使用 AI 自行绘制的 svg 制成的 iconfont，为了您有更好的使用体验，请使用移动端 Chrome、Firefox 等浏览器，拒绝国产垃圾浏览器，从你我做起（Chrome：不是我针对谁，我是说在座各位都是垃圾），您还可以三击屏幕任何地方进行全屏显示（IOS 用户请无视）
 
 ## 项目说明
->这是一个非官方的，前端基于 Vue，后端基于 node.js ( <a href="https://github.com/Binaryify/NeteaseCloudMusicApi"><b>NeteaseCloudMusicApi</b></a> 项目，大部分 API 由 <a href="https://github.com/nondanee/UnblockNeteaseMusic"><b>UnblockNeteaseMusic</b></a> 项目抓取 eapi 自行定制化而成，所以直接用 NeteaseCloudMusicApi 项目跑不起来)，开发的移动端网易云音乐 Web App 项目，请尽量使用手机访问
+>这是一个非官方的，前端基于 Vue，后端基于 node.js ( <a href="https://github.com/Binaryify/NeteaseCloudMusicApi"><b>NeteaseCloudMusicApi</b></a> 项目，大部分 API 由 <a href="https://github.com/nondanee/UnblockNeteaseMusic"><b>UnblockNeteaseMusic</b></a> 项目抓取 eapi 自行定制化而成，所以直接用 NeteaseCloudMusicApi 项目跑不起来，后端魔改版地址：<a href="https://github.com/kurodaakira-jp/NeteaseCloudMusicApi-eapi">NeteaseCloudMusicApi-eapi</a>)，开发的移动端网易云音乐 Web App 项目，请尽量使用手机访问
 
 ## 关于登陆、注册
 >如您觉的本项目不安全，或觉得有窃取您账号密码的骚操作，请不要登录
