@@ -1,0 +1,660 @@
+{
+  "id": "1104657",
+  "name": "网易云音乐 v6.0.0.084194",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "AI 手绘",
+  "glyphs": [
+    {
+      "icon_id": "201637",
+      "name": "3.1 二维码",
+      "font_class": "31erweima",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "1009220",
+      "name": "火",
+      "font_class": "huo",
+      "unicode": "e6a0",
+      "unicode_decimal": 59040
+    },
+    {
+      "icon_id": "1703518",
+      "name": "说明",
+      "font_class": "shuoming",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "7801037",
+      "name": "视频 - 网易icon",
+      "font_class": "tubiaozhizuomoban",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "7801071",
+      "name": "音乐 - 网易icon",
+      "font_class": "tubiaozhizuomoban1",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "7801109",
+      "name": "网易云音乐 - 网易icon",
+      "font_class": "tubiaozhizuomoban2",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "7867580",
+      "name": "喇叭 - 网易icon",
+      "font_class": "laba",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "7867913",
+      "name": "菜单 - 网易icon",
+      "font_class": "caidan",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "7869533",
+      "name": "右箭头 - 网易icon",
+      "font_class": "youjiantou",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "7878350",
+      "name": "垃圾桶 - 网易icon",
+      "font_class": "lajitong",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "7879192",
+      "name": "文件夹 - 网易icon",
+      "font_class": "wenjianjia",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "7879226",
+      "name": "文件夹 - 网易icon",
+      "font_class": "wenjianjia1",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "7879722",
+      "name": "链接 - 网易icon",
+      "font_class": "lianjie-",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "7879723",
+      "name": "叉 - 网易icon",
+      "font_class": "cha",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "7880039",
+      "name": "时钟 - 网易icon",
+      "font_class": "shizhong",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "7880040",
+      "name": "车 - 网易icon",
+      "font_class": "che",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "7880041",
+      "name": "歌手 - 网易icon",
+      "font_class": "geshou",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "7880042",
+      "name": "音质 - 网易icon",
+      "font_class": "yinzhi",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "7880043",
+      "name": "专辑 - 网易icon",
+      "font_class": "zhuanji",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "7880046",
+      "name": "链接 - 网易icon",
+      "font_class": "lianjie",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "7880074",
+      "name": "相似 - 网易icon",
+      "font_class": "xiangsi",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "7881584",
+      "name": "无损音质 - 网易icon",
+      "font_class": "wusunyinzhi",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "7881585",
+      "name": "对号 - 网易icon",
+      "font_class": "duihao",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "7911554",
+      "name": "邮箱 - 网易icon",
+      "font_class": "youxiang",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "7911555",
+      "name": "密码 - 网易icon",
+      "font_class": "mima",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "7911556",
+      "name": "手机 - 网易icon",
+      "font_class": "shouji",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "7918207",
+      "name": "我的好友 - 网易icon",
+      "font_class": "wodehaoyou",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "7922416",
+      "name": "换肤 - 网易icon",
+      "font_class": "huanfu",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "7922418",
+      "name": "会员中心 - 网易icon",
+      "font_class": "huiyuanzhongxin",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "7922421",
+      "name": "音乐云盘 - 网易icon",
+      "font_class": "yinleyunpan",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "7922470",
+      "name": "听歌识曲 - 网易icon",
+      "font_class": "tinggeshiqu",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "7924791",
+      "name": "签到 - 网易icon",
+      "font_class": "qiandao",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "7927828",
+      "name": "多选 - 网易icon",
+      "font_class": "duoxuan",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "7930967",
+      "name": "sq - 网易icon",
+      "font_class": "sq",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "7932285",
+      "name": "下拉 - 网易icon",
+      "font_class": "xiala",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "8025754",
+      "name": "下一首播放 - 网易icon",
+      "font_class": "xiayishoubofang",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "8035442",
+      "name": "我的电台 - 网易icon",
+      "font_class": "wodediantai",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "8035545",
+      "name": "我的收藏 - 网易icon",
+      "font_class": "wodeshoucang",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "8035546",
+      "name": "最近播放 - 网易icon",
+      "font_class": "zuijinbofang",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "8036022",
+      "name": "下箭头 - 网易icon",
+      "font_class": "youjiantou-wangyiicon",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "8089695",
+      "name": "点赞 - 网易icon",
+      "font_class": "dianzan",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "8092891",
+      "name": "笔 - 网易icon",
+      "font_class": "bi",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "8113721",
+      "name": "女 - 网易icon",
+      "font_class": "nv",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "8113722",
+      "name": "男 - 网易icon",
+      "font_class": "nan",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "8125170",
+      "name": "加号 - 网易icon",
+      "font_class": "jiahao",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "8165389",
+      "name": "右三角 - 网易icon",
+      "font_class": "yousanjiao",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    },
+    {
+      "icon_id": "8175545",
+      "name": "音乐闹钟 - 网易icon",
+      "font_class": "yinlenaozhong",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "8175546",
+      "name": "加入网易音乐人 - 网易icon",
+      "font_class": "jiaruwangyiyinleren",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "8175547",
+      "name": "在线听歌免流量 - 网易icon",
+      "font_class": "zaixiantinggemianliuliang",
+      "unicode": "e66a",
+      "unicode_decimal": 58986
+    },
+    {
+      "icon_id": "8175548",
+      "name": "退出 - 网易icon",
+      "font_class": "tuichu",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "8175549",
+      "name": "定时停止播放 - 网易icon",
+      "font_class": "dingshitingzhibofang",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "8175550",
+      "name": "夜间模式 - 网易icon",
+      "font_class": "yejianmoshi",
+      "unicode": "e66d",
+      "unicode_decimal": 58989
+    },
+    {
+      "icon_id": "8175551",
+      "name": "优惠券 - 网易icon",
+      "font_class": "youhuiquan",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "8175552",
+      "name": "扫一扫 - 网易icon",
+      "font_class": "saoyisao",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "8175553",
+      "name": "设置 - 网易icon",
+      "font_class": "shezhi",
+      "unicode": "e670",
+      "unicode_decimal": 58992
+    },
+    {
+      "icon_id": "8175807",
+      "name": "附近的人 - 网易icon",
+      "font_class": "fujinderen",
+      "unicode": "e671",
+      "unicode_decimal": 58993
+    },
+    {
+      "icon_id": "8175808",
+      "name": "演出 - 网易icon",
+      "font_class": "yanchu",
+      "unicode": "e672",
+      "unicode_decimal": 58994
+    },
+    {
+      "icon_id": "8180990",
+      "name": "多选(4pt) - 网易icon",
+      "font_class": "duoxuanpt",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "8180991",
+      "name": "下载(4pt) - 网易icon",
+      "font_class": "xiazaipt",
+      "unicode": "e673",
+      "unicode_decimal": 58995
+    },
+    {
+      "icon_id": "8180992",
+      "name": "分享(4pt) - 网易icon",
+      "font_class": "fenxiangpt",
+      "unicode": "e674",
+      "unicode_decimal": 58996
+    },
+    {
+      "icon_id": "8180993",
+      "name": "评论(4pt) - 网易icon",
+      "font_class": "pinglunpt",
+      "unicode": "e675",
+      "unicode_decimal": 58997
+    },
+    {
+      "icon_id": "8182516",
+      "name": "返回 - 网易icon",
+      "font_class": "fanhuipt",
+      "unicode": "e676",
+      "unicode_decimal": 58998
+    },
+    {
+      "icon_id": "8183039",
+      "name": "搜索 - 网易icon",
+      "font_class": "sousuo",
+      "unicode": "e677",
+      "unicode_decimal": 58999
+    },
+    {
+      "icon_id": "8183658",
+      "name": "MENU - 网易icon",
+      "font_class": "MENU",
+      "unicode": "e678",
+      "unicode_decimal": 59000
+    },
+    {
+      "icon_id": "8194172",
+      "name": "喇叭 - 网易icon",
+      "font_class": "laba1",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "8194244",
+      "name": "下一曲 - 网易icon",
+      "font_class": "xiayiqu",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    },
+    {
+      "icon_id": "8194245",
+      "name": "上一曲 - 网易icon",
+      "font_class": "shangyiqu",
+      "unicode": "e67b",
+      "unicode_decimal": 59003
+    },
+    {
+      "icon_id": "8194246",
+      "name": "菜单 - 网易icon",
+      "font_class": "caidan1",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "8194247",
+      "name": "播放 - 网易icon",
+      "font_class": "bofang",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "8194248",
+      "name": "暂停 - 网易icon",
+      "font_class": "zanting",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "8201702",
+      "name": "循环播放 - 网易icon",
+      "font_class": "xunhuanbofang",
+      "unicode": "e67f",
+      "unicode_decimal": 59007
+    },
+    {
+      "icon_id": "8201703",
+      "name": "随机播放 - 网易icon",
+      "font_class": "suijibofang",
+      "unicode": "e680",
+      "unicode_decimal": 59008
+    },
+    {
+      "icon_id": "8201705",
+      "name": "暂停 - 网易icon",
+      "font_class": "zanting1",
+      "unicode": "e681",
+      "unicode_decimal": 59009
+    },
+    {
+      "icon_id": "8201937",
+      "name": "单曲循环 - 网易icon",
+      "font_class": "danquxunhuan",
+      "unicode": "e682",
+      "unicode_decimal": 59010
+    },
+    {
+      "icon_id": "8205224",
+      "name": "喜欢 - 网易icon",
+      "font_class": "xihuan",
+      "unicode": "e683",
+      "unicode_decimal": 59011
+    },
+    {
+      "icon_id": "8205225",
+      "name": "喜欢 - 空(4pt) - 网易icon",
+      "font_class": "xihuan-kongpt",
+      "unicode": "e684",
+      "unicode_decimal": 59012
+    },
+    {
+      "icon_id": "8205226",
+      "name": "评论2(4pt) - 网易icon",
+      "font_class": "pinglunpt1",
+      "unicode": "e685",
+      "unicode_decimal": 59013
+    },
+    {
+      "icon_id": "8205227",
+      "name": "信息(4pt) - 网易icon",
+      "font_class": "xinxipt",
+      "unicode": "e686",
+      "unicode_decimal": 59014
+    },
+    {
+      "icon_id": "8205228",
+      "name": "鲸云音效(4pt) - 网易icon",
+      "font_class": "jingyunyinxiaopt",
+      "unicode": "e687",
+      "unicode_decimal": 59015
+    },
+    {
+      "icon_id": "8206979",
+      "name": "喇叭2 - 网易icon",
+      "font_class": "laba2",
+      "unicode": "e688",
+      "unicode_decimal": 59016
+    },
+    {
+      "icon_id": "9754754",
+      "name": "播放 - bar - 网易icon",
+      "font_class": "bofang-bar",
+      "unicode": "e689",
+      "unicode_decimal": 59017
+    },
+    {
+      "icon_id": "9754755",
+      "name": "暂停 - bar",
+      "font_class": "zanting-bar",
+      "unicode": "e68a",
+      "unicode_decimal": 59018
+    },
+    {
+      "icon_id": "10097551",
+      "name": "VIP - 网易icon",
+      "font_class": "VIP",
+      "unicode": "e68b",
+      "unicode_decimal": 59019
+    },
+    {
+      "icon_id": "10097552",
+      "name": "独家 - 网易icon",
+      "font_class": "dujia",
+      "unicode": "e68c",
+      "unicode_decimal": 59020
+    },
+    {
+      "icon_id": "10097553",
+      "name": "试听 - 网易icon",
+      "font_class": "shiting",
+      "unicode": "e68d",
+      "unicode_decimal": 59021
+    },
+    {
+      "icon_id": "10097554",
+      "name": "数字专辑 - 网易icon",
+      "font_class": "shuzizhuanji",
+      "unicode": "e68e",
+      "unicode_decimal": 59022
+    },
+    {
+      "icon_id": "10097555",
+      "name": "已购 - 网易icon",
+      "font_class": "yigou",
+      "unicode": "e68f",
+      "unicode_decimal": 59023
+    },
+    {
+      "icon_id": "10097556",
+      "name": "预售 - 网易icon",
+      "font_class": "yushou",
+      "unicode": "e690",
+      "unicode_decimal": 59024
+    },
+    {
+      "icon_id": "10097557",
+      "name": "VIP下载 - 网易icon",
+      "font_class": "VIPxiazai",
+      "unicode": "e691",
+      "unicode_decimal": 59025
+    },
+    {
+      "icon_id": "10097558",
+      "name": "HQ - 网易icon",
+      "font_class": "HQ",
+      "unicode": "e692",
+      "unicode_decimal": 59026
+    },
+    {
+      "icon_id": "10097587",
+      "name": "MV - 网易icon",
+      "font_class": "MV",
+      "unicode": "e693",
+      "unicode_decimal": 59027
+    },
+    {
+      "icon_id": "11450675",
+      "name": "# - 1 - 网易icon",
+      "font_class": "-",
+      "unicode": "e694",
+      "unicode_decimal": 59028
+    },
+    {
+      "icon_id": "11450685",
+      "name": "# - 2 - 网易icon",
+      "font_class": "icon-test",
+      "unicode": "e695",
+      "unicode_decimal": 59029
+    }
+  ]
+}
