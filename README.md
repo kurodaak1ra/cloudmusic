@@ -8,9 +8,6 @@
   <img src="https://img.shields.io/badge/license-MIT-green" alt="license">
 <p>
 
-## 项目线上地址： https://cloudmusic.xyz
->望各位cc、dd大佬放过这台小破机器，真的禁不住打的，感谢
-
 ## 本项目为非盈利项目，且禁止用于以盈利为目的的行为
 >且仅追求极致复刻，并不追求性能（因为我太菜了），所以，配置差的手机会卡，目前功能有限，更多功能后续慢慢增加
 
